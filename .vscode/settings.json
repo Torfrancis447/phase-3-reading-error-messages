@@ -1,0 +1,7 @@
+{
+    "background.useDefault": false,
+    "background.useFront": false,
+    "background.customImages": [
+        "\"\\wsl$\\Ubuntu\\home\\tor-f\\Development\\code\\backgroundIMG\\21614.jpg\""
+    ]
+}
